@@ -15,8 +15,7 @@ This project is a song recommendation engine that utilizes the Spotify API and t
 
 1. Create a Spotify Developer account and set up a new application to obtain the required client ID and client secret.
 2. Update the `client_id` and `client_secret` variables in the code with your own credentials.
-3. Install the required Python packages by running `pip install -r requirements.txt`.
-4. Run the script and follow the authentication prompts to grant access to the Spotify API.
+3. Run the script and follow the authentication prompts to grant access to the Spotify API.
 
 ## Usage
 
@@ -27,7 +26,6 @@ This project is a song recommendation engine that utilizes the Spotify API and t
 ## Customize
 
 - You can modify the `limit` parameter when fetching the user's top tracks to specify the number of tracks to consider.
-- Adjust the `n_neighbors` parameter when training the KNN model to change the number of similar songs recommended.
 - Update the `playlist_id` variable to target a different Spotify playlist for the song catalog.
 
 ## License

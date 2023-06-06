@@ -1,6 +1,6 @@
-# Song Recommendation System using Spotify API and KNN
+# Song Recommendation Engine
 
-This project demonstrates a song recommendation system that utilizes the Spotify API and the K-nearest neighbors algorithm (KNN) to recommend similar songs based on the user's top tracks.
+This project is a song recommendation engine that utilizes the Spotify API and the K-nearest neighbors algorithm (KNN) to recommend similar songs based on the user's top tracks.
 
 ## Features
 

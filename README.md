@@ -20,7 +20,7 @@ This project is a song recommendation engine that utilizes the Spotify API and t
 
 ## Usage
 
-1. Run the script using `python song_recommendation.py`.
+1. Run the script using `python song_recommendation_engine.py`.
 2. The script will retrieve your top tracks and calculate the most similar songs from the provided catalog playlist.
 3. The top recommended songs will be displayed in the console.
 
